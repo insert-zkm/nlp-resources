@@ -7,3 +7,4 @@ This repository contains NLP learning resources
 
 ## ML Researches
 - [Distill](https://distill.pub/)
+- [Colah's blog about NN](https://colah.github.io/)
