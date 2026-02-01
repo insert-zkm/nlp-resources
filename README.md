@@ -8,6 +8,7 @@ This repository contains NLP learning resources
 - [Text representation pt.2 (Kaggle)](https://www.kaggle.com/code/iamtapendu/text-representation-methods-nlp-part-2)
 - [Text normalization NLTK vs. SpaCy](https://python-school.ru/blog/nlp/text-normalization-spacy-vs-nltk/?ysclid=mkh1ivva7m506789632)
 
-## ML Researches
+## ML Resources
 - [Distill](https://distill.pub/)
 - [Colah's blog about NN](https://colah.github.io/)
+- [ML](https://machinelearningmastery.com/)
